@@ -23,5 +23,5 @@ v3.0 supports engine versions 4.17+
 v2.0 supports engine versions 4.12+
 v1.2 supports engine versions 4.10+
 
-**Credits**
+# Credits
 Fork of [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent)
